@@ -46,6 +46,13 @@
     <Compile Include="ClsDatMedico.cs" />
     <Compile Include="ClsDatPaciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sqlconnection.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClsEntidades\ClsEntidades.csproj">
+      <Project>{d353b2e6-e3d9-47f5-892e-fd744effff40}</Project>
+      <Name>ClsEntidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

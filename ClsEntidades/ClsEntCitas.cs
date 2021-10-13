@@ -15,8 +15,8 @@ namespace ClsEntidades
         private string id_medico;
         private int valor;
         private string observaciones;
-        private bool activo;
-        private bool tipo;
+        private byte activo;
+        private byte tipo;
 
         public string Cod_cita { get => cod_cita; set => cod_cita = value; }
         public DateTime Fecha { get => fecha; set => fecha = value; }
@@ -25,7 +25,7 @@ namespace ClsEntidades
         public string Id_medico { get => id_medico; set => id_medico = value; }
         public int Valor { get => valor; set => valor = value; }
         public string Observaciones { get => observaciones; set => observaciones = value; }
-        public bool Activo { get => activo; set => activo = value; }
-        public bool Tipo { get => tipo; set => tipo = value; }
+        public byte Activo { get => activo; set => activo = value; }
+        public byte Tipo { get => tipo; set => tipo = value; }
     }
 }
