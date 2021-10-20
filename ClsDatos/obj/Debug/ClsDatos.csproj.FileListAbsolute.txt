@@ -1,0 +1,8 @@
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\bin\Debug\ClsDatos.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\bin\Debug\ClsDatos.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\bin\Debug\ClsEntidades.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\bin\Debug\ClsEntidades.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\obj\Debug\ClsDatos.csprojAssemblyReference.cache
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\obj\Debug\ClsDatos.csproj.CopyComplete
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\obj\Debug\ClsDatos.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsDatos\obj\Debug\ClsDatos.pdb

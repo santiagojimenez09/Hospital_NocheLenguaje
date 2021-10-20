@@ -1,0 +1,5 @@
+C:\Users\204\source\repos\Hospital_Noche\ClsEntidades\bin\Debug\ClsEntidades.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsEntidades\bin\Debug\ClsEntidades.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsEntidades\obj\Debug\ClsEntidades.csprojAssemblyReference.cache
+C:\Users\204\source\repos\Hospital_Noche\ClsEntidades\obj\Debug\ClsEntidades.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsEntidades\obj\Debug\ClsEntidades.pdb

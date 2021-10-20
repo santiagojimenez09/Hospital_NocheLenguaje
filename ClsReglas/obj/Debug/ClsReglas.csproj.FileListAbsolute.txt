@@ -1,0 +1,10 @@
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsReglas.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsReglas.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsDatos.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsEntidades.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsDatos.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\bin\Debug\ClsEntidades.pdb
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.csprojAssemblyReference.cache
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.csproj.CopyComplete
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.dll
+C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.pdb

@@ -67,9 +67,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="frmCitas.aspx" />
+    <Content Include="FrmMedico.aspx" />
+    <Content Include="FrmPacientes.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCitas.aspx.cs">
+      <DependentUpon>frmCitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCitas.aspx.designer.cs">
+      <DependentUpon>frmCitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMedico.aspx.cs">
+      <DependentUpon>FrmMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmMedico.aspx.designer.cs">
+      <DependentUpon>FrmMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPacientes.aspx.cs">
+      <DependentUpon>FrmPacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmPacientes.aspx.designer.cs">
+      <DependentUpon>FrmPacientes.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -80,6 +104,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClsEntidades\ClsEntidades.csproj">
+      <Project>{d353b2e6-e3d9-47f5-892e-fd744effff40}</Project>
+      <Name>ClsEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClsReglas\ClsReglas.csproj">
+      <Project>{ad2e931c-eb2a-4c5c-81b6-9624a5d84251}</Project>
+      <Name>ClsReglas</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
