@@ -102,7 +102,7 @@
                     <asp:TextBox ID="txtCodPaciente" runat="server" Width="300px" Enabled="False"></asp:TextBox>
                 </td>
                 <td class="auto-style9">
-                    <asp:Button ID="btnConsPaciente" runat="server" Text="Buscar Paciente" Width="129px" OnClick="btnConsPaciente_Click" />
+                    <asp:Button ID="btnConsPaciente" runat="server" Text="Buscar Paciente" Width="129px" OnClick="btnConsPaciente_Click" Enabled="False" />
                 </td>
             </tr>
             <tr>
@@ -115,10 +115,10 @@
             <tr>
                 <td class="auto-style4">Codigo Medico</td>
                 <td class="auto-style5">
-                    <asp:TextBox ID="txtCodMedico" runat="server" Width="300px"></asp:TextBox>
+                    <asp:TextBox ID="txtCodMedico" runat="server" Width="300px" Enabled="False"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="btnBuscarMedico" runat="server" Text="Buscar Medico" Width="131px" OnClick="btnBuscarMedico_Click" />
+                    <asp:Button ID="btnBuscarMedico" runat="server" Text="Buscar Medico" Width="131px" OnClick="btnBuscarMedico_Click" Enabled="False" />
                 </td>
             </tr>
             <tr>
@@ -131,7 +131,7 @@
             <tr>
                 <td class="auto-style4">Vlr Consulta</td>
                 <td class="auto-style5">
-                    <asp:TextBox ID="txtVlrConsulta" runat="server" Width="300px"></asp:TextBox>
+                    <asp:TextBox ID="txtVlrConsulta" runat="server" Width="300px" Enabled="False"></asp:TextBox>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -143,7 +143,7 @@
             <tr>
                 <td class="auto-style4">Diagnostico</td>
                 <td class="auto-style5">
-                    <asp:TextBox ID="txtDiagnostico" runat="server" Width="300px"></asp:TextBox>
+                    <asp:TextBox ID="txtDiagnostico" runat="server" Width="300px" Enabled="False"></asp:TextBox>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -162,10 +162,10 @@
             </tr>
             <tr>
                 <td class="auto-style4">
-                    <asp:Button ID="btnGuardarCita" runat="server" Text="Guardar Cita" Width="139px" OnClick="btnGuardarCita_Click" />
+                    <asp:Button ID="btnGuardarCita" runat="server" Text="Guardar Cita" Width="139px" OnClick="btnGuardarCita_Click" Enabled="False" />
                 </td>
                 <td class="auto-style5">
-                    <asp:Button ID="BtnAnular" runat="server" OnClick="BtnAnular_Click" Text="Anular" Width="166px" />
+                    <asp:Button ID="BtnAnular" runat="server" OnClick="BtnAnular_Click" Text="Anular" Width="166px" Enabled="False" />
                 </td>
                 <td>
                     <asp:Button ID="btnLimpiar" runat="server" OnClick="btnLimpiar_Click" Text="Limpiar" Width="140px" />

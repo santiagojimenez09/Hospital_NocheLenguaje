@@ -23,10 +23,11 @@ namespace ClsDatos
                 cmd.CommandText = "sp_guardar_cita";
                 cmd.Parameters.Add("@pcod_cita", oentcitas.Cod_cita);
                 cmd.Parameters.Add("@pfecha", oentcitas.Fecha);
-                cmd.Parameters.Add("@pidpaciente", oentcitas.Id_paciente);
-                cmd.Parameters.Add("@pidpaciente", oentcitas.Id_medico);
-                cmd.Parameters.Add("@pidpaciente", oentcitas.Valor);
-                cmd.Parameters.Add("@pidpaciente", oentcitas.Observaciones);
+                cmd.Parameters.Add("@phora", oentcitas.Hora);
+                cmd.Parameters.Add("@pid_paciente", oentcitas.Id_paciente);
+                cmd.Parameters.Add("@pid_medico", oentcitas.Id_medico);
+                cmd.Parameters.Add("@pvalor", oentcitas.Valor);
+                cmd.Parameters.Add("@pobservaciones", oentcitas.Observaciones);
                 cmd.ExecuteNonQuery();
                 return true;
             }

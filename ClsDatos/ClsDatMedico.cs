@@ -58,7 +58,7 @@ namespace ClsDatos
                 cmd.Connection = objconexion.conectar("dbhospital");
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.CommandText = "sp_consultar_medico";
-                cmd.Parameters.Add("@pid_paciente", oentmedico.Id_medico);
+                cmd.Parameters.Add("@pid_medico", oentmedico.Id_medico);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataSet ds = new DataSet();
                 da.Fill(ds);
