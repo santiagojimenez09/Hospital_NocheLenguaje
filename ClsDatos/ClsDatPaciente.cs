@@ -41,7 +41,7 @@ namespace ClsDatos
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.CommandText = "sp_anular_paciente";
                 cmd.Parameters.Add("@pid_paciente", oentpaciente.Id_paciente);
-                cmd.Parameters.Add("@tipo", oentpaciente.Tipo); 
+                cmd.Parameters.Add("@ptipo", oentpaciente.Tipo); 
                 cmd.ExecuteNonQuery();
                 return true;
             }

@@ -8,3 +8,14 @@ C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.csprojAss
 C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.csproj.CopyComplete
 C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.dll
 C:\Users\204\source\repos\Hospital_Noche\ClsReglas\obj\Debug\ClsReglas.pdb
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsReglas.dll
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsReglas.pdb
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsDatos.dll
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsEntidades.dll
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsDatos.pdb
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\bin\Debug\ClsEntidades.pdb
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\obj\Debug\ClsReglas.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\obj\Debug\ClsReglas.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\obj\Debug\ClsReglas.csproj.CopyComplete
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\obj\Debug\ClsReglas.dll
+C:\Users\Santiago\source\repos\Hospital_NocheLenguaje\ClsReglas\obj\Debug\ClsReglas.pdb
